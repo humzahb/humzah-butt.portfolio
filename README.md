@@ -269,7 +269,3 @@ If you need help customizing this portfolio:
 Free to use and customize for your personal portfolio.
 
 ---
-
-**Built with ❤️ for IT Professionals**
-
-Good luck with your UAE job search! 🚀
